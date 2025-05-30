@@ -1,8 +1,4 @@
-<html>
 <center>
-<body> VIJAY</body>
-<hr>
+<h1> VIJAY</h1>
 </center>
-</body>
-</html>
-
+<hr>
